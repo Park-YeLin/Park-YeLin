@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a>&nbsp
 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-YeLin)](https://github.com/Park-YeLin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yelll)](https://github.com/Yelll/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=3&height=200&section=footer)
