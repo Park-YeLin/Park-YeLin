@@ -14,6 +14,7 @@
 <h3 align="center"> 
 <p align="center"> 💧 Techs that I've used at least once 💧 </p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 </h3>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=3&height=300&section=footer)
