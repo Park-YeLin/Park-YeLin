@@ -6,6 +6,7 @@
 
 <h3 align="center"> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-</h3
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
+</h3>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=3&height=300&section=footer)
