@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=3&height=300&section=header&text=Welcome%20YeLin's%20Github&fontSize=50&fontColor=663300&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=3&height=200&section=header&text=Welcome%20YeLin's%20Github&fontSize=30&fontColor=663300&animation=fadeIn)
 
 <h3 align="center">  ⚔ Tech Stack ⚔ 
 
@@ -20,4 +20,6 @@
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/></a>&nbsp
 </h3>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=3&height=300&section=footer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-YeLin)](https://github.com/Park-YeLin/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=3&height=200&section=footer)
